@@ -1,7 +1,7 @@
 ---
-name: Rapport bug modèle
+name: Rapport bug
 about: Rapport bug modèle
-title: "[à compléter: courte description du problème]"
+title: ''
 labels: ''
 assignees: ''
 
