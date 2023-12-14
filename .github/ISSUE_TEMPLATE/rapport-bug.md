@@ -2,7 +2,7 @@
 name: Rapport bug
 about: Rapport bug modèle
 title: ''
-labels: ''
+labels: 'Type: Nouvelle fonctionnalité'
 assignees: ''
 
 ---
