@@ -9,6 +9,8 @@ assignees: ''
 
 - Utilisateur impacté: [à compléter]
 - Rapporté par: [à compléter]
+- Version apperçu: [à compléter]
+- Dernière version ultérieure sans ce bug: [à compléter si possible]
 
 ### Descriptif du problème:
 
